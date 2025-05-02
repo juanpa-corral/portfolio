@@ -171,15 +171,15 @@ const navLinks = [
       ],
     },
     {
-      review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      review: "Juan showcased solid full-stack development skills by building a complete e-commerce platform from scratch. His attention to responsive design and seamless user experience greatly enhanced the usability and performance of the website",
       imgPath: "/images/exp3.png",
       logoPath: "/images/logo3.png",
-      title: "React Native Developer",
-      date: "March 2019 - May 2020",
+      title: "Full-Stack Developer",
+      date: "January 2024 - July 2024",
       responsibilities: [
-        "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-        "Improved app performance and user experience through code optimization and testing.",
-        "Coordinated with the product team to implement features based on feedback.",
+        "Developed and deployed a full-featured e-commerce platform for printed shirts using PHP, HTML, CSS, and JavaScript.",
+        "Implemented product catalog management, shopping cart functionality, and secure payment processing.",
+        "Ensured a responsive and user-friendly design across devices for an optimized shopping experience.",
       ],
     },
   ];
