@@ -147,27 +147,27 @@ const navLinks = [
   
   const expCards = [
     {
-      review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      review: "Juan brought vision and full-stack expertise to the development of our gym app, delivering a seamless and modern user experience. His ownership of both frontend and backend made a huge impact on the project’s success.",
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
-      title: "Frontend Developer",
-      date: "January 2023 - Present",
+      title: "App Developer",
+      date: "April 2025 - Present",
       responsibilities: [
-        "Developed and maintained user-facing features for the Hostinger website.",
-        "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-        "Optimized web applications for maximum speed and scalability.",
+        "Led the full-stack development of a mobile application for the university's gym, using Flutter for cross-platform deployment.",
+        "Designed and implemented the backend architecture, including user authentication, training schedules, and real-time updates.",
+        "Collaborated with university staff to align features with institutional needs and ensure a user-centered experience.",
       ],
     },
     {
-      review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      review: "Juan demonstrated outstanding initiative and full-stack expertise by leading the development of a real estate management app. His ability to deliver a complete, functional solution—combining UX, automation, and real-time features—greatly enhanced the project's value.",
       imgPath: "/images/exp2.png",
       logoPath: "/images/logo2.png",
-      title: "Full Stack Developer",
-      date: "June 2020 - December 2023",
+      title: "App Developer",
+      date: "June 2023 - Present (maintenance)",
       responsibilities: [
-        "Led the development of Docker's web applications, focusing on scalability.",
-        "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-        "Contributed to open-source projects that were used with the Docker ecosystem.",
+        "Designed and developed a mobile real-estate management app from scratch.",
+        "Implemented advanced property listing features, dynamic search filters, and automatic property sheet generation.",
+        "Integrated email delivery system for sending property details directly to clients.",
       ],
     },
     {
