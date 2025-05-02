@@ -59,13 +59,13 @@ const ShowcaseSection = () => {
                     {/*RIGHT */}
                     <div className="project-list-wrapper overflow-hidden">
                         <div className="project" ref={project2Ref}>
-                            <div className="image-wrapper bg-[#ffefdb]">
+                            <div className="image-wrapper">
                                 <img src="/images/project2.png" alt="Bender Store" />
                             </div>
                             <h2>E-commerce for the Sale of Printed Shirts</h2>
                         </div>
                         <div className="project" ref={project3Ref}>
-                            <div className="image-wrapper bg-[#ffe7eb]">
+                            <div className="image-wrapper">
                                 <img src="/images/project3.png" alt="CAF App" />
                             </div>
                             <h2>Gym App, called CAF App</h2>
