@@ -91,24 +91,40 @@ const navLinks = [
   
   const techStackImgs = [
     {
-      name: "React Developer",
-      imgPath: "/images/logos/react.png",
+      name: "Java Developer",
+      imgPath: "/images/logos/java.png",
     },
     {
-      name: "Python Developer",
-      imgPath: "/images/logos/python.svg",
+      name: "Klotin Developer",
+      imgPath: "/images/logos/klotin.png",
     },
     {
-      name: "Backend Developer",
-      imgPath: "/images/logos/node.png",
+      name: "Flutter Developer",
+      imgPath: "/images/logos/flutter.png",
     },
     {
-      name: "Interactive Developer",
-      imgPath: "/images/logos/three.png",
+      name: "HTML Developer",
+      imgPath: "/images/logos/html.png",
     },
     {
-      name: "Project Manager",
-      imgPath: "/images/logos/git.svg",
+      name: "Tailwind-CSS Styles",
+      imgPath: "/images/logos/tailwind.png",
+    },
+    {
+      name: "DevOps Developer",
+      imgPath: "/images/logos/ci_cd.png",
+    },
+    {
+      name: "Docker",
+      imgPath: "/images/logos/docker.png",
+    },
+    {
+      name: "Jenkins",
+      imgPath: "/images/logos/jenkins.png",
+    },
+    {
+      name: "Kubernetes",
+      imgPath: "/images/logos/kubernetes.png",
     },
   ];
   
@@ -126,7 +142,7 @@ const navLinks = [
       rotation: [0, 0, 0],
     },
     {
-      name: "Backend Developer",
+      name: "JS Developer",
       modelPath: "/models/node-transformed.glb",
       scale: 5,
       rotation: [0, -Math.PI / 2, 0],
@@ -138,7 +154,7 @@ const navLinks = [
       rotation: [0, 0, 0],
     },
     {
-      name: "Project Manager",
+      name: "Git & GitHub",
       modelPath: "/models/git-svg-transformed.glb",
       scale: 0.05,
       rotation: [0, -Math.PI / 4, 0],
