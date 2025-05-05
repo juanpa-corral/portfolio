@@ -263,19 +263,18 @@ const navLinks = [
   const socialImgs = [
     {
       name: "insta",
-      imgPath: "/images/insta.png",
+      url: "https://www.instagram.com/juanpa834/",
+      imgPath: "/images/insta.svg",
     },
     {
-      name: "fb",
-      imgPath: "/images/fb.png",
-    },
-    {
-      name: "x",
-      imgPath: "/images/x.png",
+      name: "whats",
+      url: "https://api.whatsapp.com/send?phone=3163181253",
+      imgPath: "/images/whatsapp-brands.svg",
     },
     {
       name: "linkedin",
-      imgPath: "/images/linkedin.png",
+      url: "https://www.linkedin.com/in/juan-pablo-corral-henao/",
+      imgPath: "/images/linkedin.svg",
     },
   ];
   
